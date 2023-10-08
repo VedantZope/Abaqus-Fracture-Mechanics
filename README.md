@@ -12,8 +12,8 @@ This project code is used to optimize the Ductile Fracture Parameters in Extende
 ## Status
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Contributors](https://img.shields.io/github/contributors/springnuance/Abaqus-Macromechanics-Project.svg)
-![Number of Commits](https://img.shields.io/github/commit-activity/y/springnuance/Abaqus-Macromechanics-Project.svg)
+![Contributors](https://img.shields.io/github/contributors/VedantZope/Abaqus-Fracture-Mechanics.svg)
+![Number of Commits](https://img.shields.io/github/commit-activity/y/VedantZope/Abaqus-Fracture-Mechanics.svg)
 
 ## Authors
 
